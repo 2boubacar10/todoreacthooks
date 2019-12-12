@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todoreacthooks/static/css/main.d4e64339.chunk.css",
+    "main.js": "/todoreacthooks/static/js/main.73ae3762.chunk.js",
+    "main.js.map": "/todoreacthooks/static/js/main.73ae3762.chunk.js.map",
+    "runtime-main.js": "/todoreacthooks/static/js/runtime-main.b2aadd67.js",
+    "runtime-main.js.map": "/todoreacthooks/static/js/runtime-main.b2aadd67.js.map",
+    "static/js/2.7df547f4.chunk.js": "/todoreacthooks/static/js/2.7df547f4.chunk.js",
+    "static/js/2.7df547f4.chunk.js.map": "/todoreacthooks/static/js/2.7df547f4.chunk.js.map",
+    "index.html": "/todoreacthooks/index.html",
+    "precache-manifest.46dc63146fe8fe6513446ccf6f0bd5b9.js": "/todoreacthooks/precache-manifest.46dc63146fe8fe6513446ccf6f0bd5b9.js",
+    "service-worker.js": "/todoreacthooks/service-worker.js",
+    "static/css/main.d4e64339.chunk.css.map": "/todoreacthooks/static/css/main.d4e64339.chunk.css.map",
+    "static/js/2.7df547f4.chunk.js.LICENSE": "/todoreacthooks/static/js/2.7df547f4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2aadd67.js",
+    "static/js/2.7df547f4.chunk.js",
+    "static/css/main.d4e64339.chunk.css",
+    "static/js/main.73ae3762.chunk.js"
+  ]
+}
